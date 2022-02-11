@@ -1,4 +1,4 @@
-package com.company;
+package github.trofimov;
 
 import java.util.ArrayList;
 import java.util.HashMap;

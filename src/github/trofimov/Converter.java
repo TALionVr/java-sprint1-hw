@@ -1,4 +1,4 @@
-package com.company;
+package github.trofimov;
 
 public class Converter {
 
